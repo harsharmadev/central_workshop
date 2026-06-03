@@ -14,9 +14,5 @@ A web-based workshop management system developed for DCRUST Murthal.
 - JavaScript
 - Firebase
 
-## Screenshots
-
-![Dashboard](link-to-image)
-
 ## Author
 Harsh Sharma
